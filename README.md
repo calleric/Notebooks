@@ -1,2 +1,3 @@
 # Notebooks
-Collection of Jupyter notebooks
+
+A collection of Jupyter notebooks.
