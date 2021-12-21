@@ -6,3 +6,4 @@ pandas==1.2.3
 traitlets==5.0.5
 voila==0.2.7
 plotly==5.4.0
+xlrd==2.0.1
